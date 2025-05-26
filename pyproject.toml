@@ -9,6 +9,7 @@ dependencies = [
     "mcp>=1.9.1",
     "numpy>=2.2.6",
     "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "torch>=2.7.0",
 ]
